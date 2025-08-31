@@ -59,4 +59,4 @@ To provide an interactive, data-driven Power BI dashboard that:
  6. Screenshot
     
 
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Akash-yadav01/Sales-Insights-Interactive-Market-Revenue-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
